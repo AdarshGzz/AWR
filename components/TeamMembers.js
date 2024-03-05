@@ -34,7 +34,7 @@ function TeamMembers() {
     },
     {
       id: 5,
-      name: "Muhammed Adil M.",
+      name: "Muhammed Aadil M.",
       registrationNo: "21BAS10124",
       contribution: "Lead Developer",
       imageUrl: "john.jpg",
