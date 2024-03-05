@@ -12,7 +12,7 @@ function HomeSection() {
       <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
       {/* Content */}
       <div className="relative z-20 flex flex-col justify-center items-center text-white h-full gap-10">
-        <h2 className="text-4xl font-bold">Solution to Agriculture</h2>
+        <h2 className="text-4xl font-bold">Agriculture Waste Recycler</h2>
         <p className="text-lg px-20">
           In India after a good harvest of crops, many times farmers end up with
           rice straw, and burning of this rice straw leads to many issues, it
